@@ -1,5 +1,5 @@
 require 'csv'
-require './lib/main2'
+require './main2'
 
 data = CSV.read('data.csv')
 
